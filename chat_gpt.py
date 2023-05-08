@@ -7,7 +7,7 @@ import openai
 #openai.api_key = os.getenv("OPENAI_API_KEY")
 
 #if you have OpenAI API key as a string, enable the below
-openai.api_key = "#"
+openai.api_key = "##"
 
 start_sequence = "\nAI:"
 restart_sequence = "\nHuman: "
